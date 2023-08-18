@@ -1,0 +1,14 @@
+Gender,Age,smoking,alcohol,vegetables,meat dishes,colon cancer
+Male,62,yes,yes,no,no,yes
+Male,77,yes,yes,no,yes,yes
+Female,66,yes,no,no,yes,yes
+Female,72,no,no,yes,yes,no
+Male,75,no,no,yes,no,no
+Male,61,no,no,yes,yes,no
+Male,59,no,no,yes,no,no
+Male,50,yes,yes,no,no,yes
+Male,54,yes,yes,no,yes,yes
+Female,68,no,yes,no,yes,yes
+Female,62,no,no,yes,yes,no
+Male,68,yes,no,no,yes,yes
+Male,47,yes,no,yes,no,no
